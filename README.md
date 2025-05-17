@@ -1,7 +1,7 @@
-# Multi-Layer-Encryption-System-
+# Multi-Layer Encryption System v1.0
 🇺🇸
 
-Multi-Layer Encryption System v2.0
+Multi-Layer Encryption System v1.0
 An interactive Python script to encrypt and decrypt messages with a unique key, using the cryptography.fernet library to ensure security.
 The console interface is colored thanks to colorama and offers a simple and efficient user experience.
 
@@ -24,7 +24,7 @@ Author: k0zei
 
 🇫🇷
 
-Multi-Layer Encryption System v2.0
+Multi-Layer Encryption System v1.0
 Un script Python interactif pour chiffrer et déchiffrer des messages avec une clé unique, utilisant la bibliothèque cryptography.fernet pour garantir la sécurité.
 L’interface console est colorée grâce à colorama et propose une expérience utilisateur simple et efficace.
 
